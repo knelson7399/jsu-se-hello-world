@@ -1,3 +1,5 @@
+Kris Nelson
+
 # Hello World
 This repository will allow you to build your first professional Java
 project, including unit and acceptance tests, using Gradle as the
@@ -82,6 +84,8 @@ After you run `gradle build`, a new `build` directory will automatically be crea
 : This file (where *name* is specified in the jar settings of `gradle.build`, "jsu-se-hello-world-1.0.jar" in this case) is the fully bundled code for the project. You can run this by saying
   `java -jar build/libs/<name>.jar`
   from the project root.
+  
+Kris Nelson
 
 
 
